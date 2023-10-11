@@ -1,26 +1,7 @@
 # Dine restaurant website
-## Table of Contents
-
-- [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Built with](#-built-with)
-- [Install](#install) (How it works)
-- [The Project Structure](#the-project-structure)
-- [Author](#author)
-
-## Overview
-
-This is a solution to the [Dine restaurant website](https://www.frontendmentor.io/challenges/dine-restaurant-website-yAt7Vvxt7). The purpose is to improve my coding skills by building realistic projects.
-## Screenshot
-### Home Page
-![Dine restaurant website - Home Page](https://github.com/Bayoumi-dev/Dine-restaurant-website/blob/master/design/preview-home.jpg)
-### Booking Page
-![Dine restaurant website - Booking Page](https://github.com/Bayoumi-dev/Dine-restaurant-website/blob/master/design/preview-booking.jpg)
-
 
 ## ⚙ Built with
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
-#### Dependencies
+
 - React js
 - React Router
 - Typescript
@@ -111,8 +92,3 @@ npm start
     ├── index.css
     └── index.tsx
 ```
-
-## Author
-- Website - [bayoumi.dev](https://bayoumi.dev)
-
-# dinner
